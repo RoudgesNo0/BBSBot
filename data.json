@@ -1,0 +1,188 @@
+{
+  "bildungsangebote": [
+    {
+      "category": "Bautechnik",
+      "occupations": [
+        {
+          "name": "Dachdecker/-in",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/bautechnik/dachdeckerin/",
+          "paragraph": "§1"
+        },
+        {
+          "name": "Hochbaufacharbeiter/in",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/bautechnik/hochbaufacharbeiterin/",
+          "paragraph": "§2"
+        },
+        {
+          "name": "Maurer/in",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/bautechnik/maurerin/",
+          "paragraph": "§3"
+        },
+        {
+          "name": "Zimmerer/Zimmererin",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/bautechnik/zimmererinnen/",
+          "paragraph": "§4"
+        }
+      ]
+    },
+    {
+      "category": "Ernährung und Hauswirtschaft",
+      "occupations": [
+        {
+          "name": "Bäcker/in",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/baeckerin/",
+          "paragraph": "§1"
+        },
+        {
+          "name": "Fachkraft für Gastronomie",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/fachkraft-fuer-gastronomie/",
+          "paragraph": "§2"
+        },
+        {
+          "name": "Fachverkäufer/in im Lebensmittelhandwerk, Schwerpunkt Bäckerei",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/fachverkaeuferin-im-lebensmittelhandwerk-baeckerei/",
+          "paragraph": "§3"
+        },
+        {
+          "name": "Hotelfachfrau/-mann",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/hotelfachfrau/",
+          "paragraph": "§4"
+        },
+        {
+          "name": "Koch/Köchin",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/koch/",
+          "paragraph": "§5"
+        },
+        {
+          "name": "Fachkraft Küche",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/fachkraft-kueche/",
+          "paragraph": "§6"
+        },
+        {
+          "name": "Fachmann für Restaurant- und Veranstaltungsgastronomie",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/ernaehrung-und-hauswirtschaft/fachmann-fuer-restaurant-und-veranstaltungsgastronomie/",
+          "paragraph": "§7"
+        }
+      ]
+    },
+    {
+      "category": "Farbtechnik und Raumgestaltung",
+      "occupations": [
+        {
+          "name": "Fahrzeuglackierer",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/farbtechnik-und-raumgestaltung/fahrzeuglackierer/",
+          "paragraph": "§1"
+        },
+        {
+          "name": "Maler und Lackierer",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/ausbildungsberufe/farbtechnik-und-raumgestaltung/maler-und-lackierer/",
+          "paragraph": "§2"
+        }
+      ]
+    },
+    {
+      "category": "Vollzeitschulformen",
+      "occupations": [
+        {
+          "name": "Berufseinstiegsschule",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/vollzeitschulformen/berufseinstiegsschule/",
+          "paragraph": "§1"
+        },
+        {
+          "name": "Berufsfachs Schule",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/vollzeitschulformen/berufsfachs-schule/",
+          "paragraph": "§2"
+        },
+        {
+          "name": "Berufsfachs Schule Dual",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/vollzeitschulformen/berufsfachs-schule-dual/",
+          "paragraph": "§3"
+        },
+        {
+          "name": "Berufsfachs Schule Wirtschaft-Informatik",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/vollzeitschulformen/berufsfachs-schule-wirtschaft-informatik/",
+          "paragraph": "§4"
+        }
+      ]
+    },
+    {
+      "category": "Berufsausbildung",
+      "occupations": [
+        {
+          "name": "Bautechnik",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/berufsausbildung/bautechnik/",
+          "paragraph": "§1"
+        },
+        {
+          "name": "Fahrzeugtechnik",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/berufsausbildung/fahrzeugtechnik/",
+          "paragraph": "§2"
+        },
+        {
+          "name": "Lebensmittelhandwerk",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/berufsausbildung/lebensmittelhandwerk/",
+          "paragraph": "§3"
+        },
+        {
+          "name": "Hauswirtschaft und Pflege",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/berufsausbildung/hauswirtschaft-und-pflege/",
+          "paragraph": "§4"
+        },
+        {
+          "name": "Gastronomie",
+          "link": "https://bbs-stadthagen.de/bildungsangebote/berufsausbildung/gastronomie/",
+          "paragraph": "§5"
+        }
+      ]
+    }
+  ],
+  "schulordnung": {
+    "einleitung": "Die Schulordnung will die Voraussetzung für eine ungestörte, auf gegenseitiges Vertrauen aufgebaute Zusammenarbeit schaffen.",
+    "allgemeine_regeln": [
+      {
+        "rule": "Den Anordnungen des Schulleiters, der Lehrer*innen und anderer beauftragter Personen ist unbedingt Folge zu leisten.",
+        "paragraph": "§1"
+      },
+      {
+        "rule": "Der Schülerausweis ist während des Schulbesuchs bei sich zu führen und den Lehrkräften und sonstigem Personal der Schule auf Verlangen vorzuzeigen. Jemand, der nicht im Besitz eines gültigen Ausweises ist, kann des Grundstücks verwiesen werden. Der nicht genehmigte Aufenthalt schulfremder Personen auf dem Schulgelände und im Schulgebäude ist nicht erlaubt.",
+        "paragraph": "§2"
+      },
+      {
+        "rule": "Hat eine Klasse oder Lerngruppe 10 Minuten nach Unterrichtsbeginn keine Lehrkraft, muss dies im Sekretariat gemeldet werden.",
+        "paragraph": "§3"
+      },
+      {
+        "rule": "Jede Änderung der Anschrift der Erziehungsberechtigten, der Lernenden und der Ausbildungsbetriebe ist den Klassenlehrer*innen mitzuteilen.",
+        "paragraph": "§4"
+      },
+      {
+        "rule": "Tiere, die nicht direkt in Verbindung mit dem Unterrichtsgeschehen stehen, dürfen nicht mit in das Schulgebäude gebracht werden.",
+        "paragraph": "§5"
+      },
+      {
+        "rule": "Unfälle und Gewaltanwendungen auf dem Schulweg und dem Schulgelände sind unverzüglich im Sekretariat zu melden.",
+        "paragraph": "§6"
+      },
+      {
+        "rule": "Bei Feueralarm muss die Alarmordnung, die in jedem Raum aushängt, genauestens befolgt werden.",
+        "paragraph": "§7"
+      },
+      {
+        "rule": "Das Tragen von Kleidung mit gewaltverherrlichenden und/oder rassistischen Zeichen und Inhalten ist untersagt. Gleiches gilt für das Tragen von Burka und Nikab.",
+        "paragraph": "§8"
+      }
+    ]
+  },
+  "waffenerlass": {
+    "date": "04.01.2024",
+    "title": "Verbot des Mitbringens von Waffen, Munition und vergleichbaren Gegenständen sowie von Chemikalien in Schulen; RdErl. d. MK v. 27.10.2021",
+    "points": [
+      "Es wird untersagt, Waffen i. S. des WaffG in der jeweils geltenden Fassung mit in die Schule, auf das Schulgelände oder zu Schulveranstaltungen zu bringen oder bei sich zu führen. Dazu gehören die im WaffG als verboten bezeichneten Gegenstände (insbesondere die sog. Butterflymesser, Faustmesser, Springmesser, Fallmesser, Stahlruten, Totschläger, Schlagringe usw.) sowie die Gegenstände, für die nach dem WaffG ein Verbot des Führens besteht (Einhandmesser und feststehende Messer mit einer Klingenlänge von mehr als 12 cm usw.) sowie Schusswaffen.",
+      "Das Verbot erstreckt sich auch auf gleichgestellte Gegenstände (z. B. Schreckschuss-, Reizstoff- und Signalwaffen), Gassprühgeräte, Hieb- und Stoßwaffen sowie waffenähnliche Gegenstände wie Schlachter-, Küchen- oder Taschenmesser, Pfeffersprays und Laserpointer.",
+      "Verboten sind auch Waffen, mit denen der Umgang ganz oder teilweise von der Erlaubnispflicht oder von einem Verbot ausgenommen ist oder die vom Anwendungsbereich des WaffG ganz oder teilweise ausgenommen sind (z. B. Soft-Air-Waffen mit einer Bewegungsenergie der Geschosse bis zu 0,5 Joule oder Spielzeugwaffen). Untersagt wird auch das Mitbringen oder Beisichführen von Nachbildungen von Waffen, die aufgrund ihres äußeren Erscheinungsbildes mit Waffen i. S. des WaffG verwechselt werden können.",
+      "Das Verbot gilt auch für volljährige Schüler*innen, die entweder im Besitz einer Erlaubnis zum Führen von Waffen sind (Waffenschein und kleiner Waffenschein) oder erlaubnisfreie Waffen erwerben dürfen.",
+      "Untersagt wird außerdem das Mitbringen und Beisichführen von Munition jeder Art, von Feuerwerkskörpern, von Schwarzpulver sowie von Chemikalien, die durch ihre explosive oder giftige Wirkung eine Gefahr für die Sicherheit oder Gesundheit der anderen Schüler*innen darstellen können.",
+      "Die Schule hat das Recht, zur Wahrung der Sicherheit entsprechende Sicherheitsmaßnahmen wie z. B. eine Sicherheitsüberprüfung von Schüler*innen oder das Durchsuchen von Taschen durchzuführen."
+    ]
+  }
+}
